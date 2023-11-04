@@ -1,4 +1,4 @@
-# Click counter project made in Flutter.
+# Click counter project made in Flutter
 
 
 <div align-"center">

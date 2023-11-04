@@ -1,16 +1,6 @@
-# teste22
+#Click counter project made in Flutter.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align-"center">
+<img src="https://github.com/Andres2kk/CounterClick/assets/147880314/0475c6eb-1427-4e11-9644-bb58e160ee14" width="700px" />
+</div>
